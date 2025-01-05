@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 ,Известия ТВ FHD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:-1,Первый HD
+http://194.143.148.28:8080/PerviyHD/index.m3u8
+#EXTINF:-1,Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
+#EXTINF:-1,НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1,НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:-1,НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1,НТВ Хит
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://185.23.80.28:8080/TV3_HD/index.m3u8?token=test
+#EXTINF:-1 ,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1,Galaxy TV (EDTV 576p)
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1,СТС HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1,Дом Кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+#EXTINF:-1,СТС
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+#EXTINF:-1,Eurosport 1 (HD)
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1,Eurosport 2 (HD)
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1,Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,Россия 1
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1,Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1,РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1,РТР Планета СНГ
+https://player.smotrim.ru/iframe/stream/live_id/63253
+#EXTINF:-1,ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+
+
+
+
