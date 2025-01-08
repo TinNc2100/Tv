@@ -9,12 +9,12 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/zvezda.png",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда Плюс
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общественные",ТВ3 HD
 http://185.23.80.28:8080/TV3_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС Int
-https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные",СТС HD
+http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/tvcentr.png",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/vremia.png",Время
@@ -89,6 +89,8 @@ http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/sts.png",СТС SD
 http://213.226.137.140:81/tl/l43/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС Int
+https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/subbota.png",Суббота
 http://185.23.80.28:8080/Super/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/subbota.png",Суббота SD
