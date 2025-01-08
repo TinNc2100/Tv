@@ -2,16 +2,16 @@
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/pervy.png",Первый HD
 http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD
-http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/rentv.png",Рен ТВ HD
 http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/zvezda.png",Звезд HD
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/zvezda.png",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/zvezda-plus.png",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Общественные",ТВ3
+#EXTINF:-1 group-title="Общественные",ТВ3 HD
 http://185.23.80.28:8080/TV3_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/sts-int.png",СТС Int
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
@@ -83,6 +83,8 @@ http://93.189.224.246:52900/play/a00v/index.m3u8
 http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 group-title="Общественные",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1
+http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.one/img2/1003.png",Пятница! SD
 http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://iptvx.one/picons/sts.png",СТС SD
