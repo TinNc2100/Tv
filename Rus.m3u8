@@ -79,6 +79,8 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunkli
 http://93.189.224.246:52900/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/rentv-int.png",РенТВ International
 http://45.159.74.14:80/RenTv/index.m3u8
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/zapad-24.png",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Общественные",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1
@@ -105,8 +107,6 @@ http://88.218.242.237:8000/play/a00t
 http://178.212.71.253:8002/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="https://iptvx.one/picons/zapad-24.png",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://iptvx.one/picons/izvestia.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,group-title="Новости" tvg-logo="https://iptvx.one/picons/izvestia.png",Известия
