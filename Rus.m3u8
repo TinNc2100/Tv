@@ -337,16 +337,12 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery Channel HD
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/galaxy-tv.png",Galaxy TV
-http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/galaxy-tv.png",Galaxy TV 
 http://185.23.80.28:8080/Galaxy/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/history.png",History 
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/idxtra.png",ID Xtra Европа
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/ocean-tv.png",Ocean TV
-http://live.admuspeh.my/8069/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/viasat-explore.png",Viasat Explore HD
 http://213.226.137.140:81/tl/l94/mpegts
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://iptvx.one/picons/viasat-nature.png",Viasat Nature HD
