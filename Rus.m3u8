@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/pervy.png",Первый HD
-http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ HD
@@ -77,10 +77,6 @@ https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/ntv-pravo.png",НТВ Право 
 http://130.193.73.10:8937/play/a01s
-#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/pervy.png",Первый HD
-http://194.143.148.28:8080/PerviyHD/index.m3u8
-#EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/pervy.png",Первый HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Общественные" tvg-logo="https://iptvx.one/picons/pervy-info-by.png",Первый информационный HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Общественные" tvg-logo="http://epg.one/img2/18.png",Рен ТВ 
@@ -407,3 +403,4 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="http://epg.one/img2/2782.png",Футбол 
 http://185.23.80.28:8080/Football/index.m3u8?token=test
+
