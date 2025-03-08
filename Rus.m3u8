@@ -10,13 +10,19 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png"group-title="Общественные",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rentv.png"group-title="Общественные",Рен ТВ HD
-http://93.189.224.246:52900/play/a00v/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/zvezda.png"group-title="Общественные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/zvezda-plus.png"group-title="Общественные",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Общественные",ТВ3 HD
-http://185.23.80.28:8080/TV3_HD/index.m3u8?token=test
+http://130.193.73.10:8937/play/a03q
+#EXTINF:-1 tvg-id="tv3-by" tvg-logo="https://iptvx.one/picons/tv3-by.png" group-title="Общественные",ТВ3 Беларусь
+http://93.189.224.246:52900/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",Рен ТВ (EDTV)
+http://93.189.224.246:52900/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Общественные",Рен ТВ Int (EDTV)
+http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts.png"group-title="Развлекательные",СТС
 http://213.226.137.140:81/tl/l43/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvcentr.png"group-title="Общественные",ТВЦ
