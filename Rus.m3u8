@@ -39,8 +39,6 @@ http://77.235.1.19:8000/play/a07e/index.m3u8
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета Киномир
 https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kamedi_HD
-#EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 #EXTINF:-1 group-title="Кино", Кино ТВ
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино", Кинопремьера
@@ -61,14 +59,6 @@ http://195.245.99.242/Bestseler/playlist.m3u8
 http://195.245.99.242/Detectiv/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Русский иллюзион HD
 http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киноазия
-https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киносемья
-https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киноэкшен 
-https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем Христианский
-https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", Феникс Плюс Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино", A1 HD
