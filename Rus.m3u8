@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz, https://epg.admuspeh.my""
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/izvestia.png"group-title="Новости",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia-24.png"group-title="Новости",Россия 24
@@ -28,50 +27,4 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Общественные", НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="TvoyeTVYumor.ru",Твое ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Общие", ТВ3 HD
-http://vs6.cdn.mrf.tvime.ru/tv3hd_MSK/video.m3u8
 
-
-
-#EXTINF:-1 group-title="Кино", .red HD
-http://77.235.1.19:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="Кино", .sci-fi 
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Кино", Видеокассета Киномир
-https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кино", Кино ТВ
-http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино", Кинопремьера
-http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Киносвидание
-http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино", Кинохит HD
-http://77.235.1.19:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Кино", Любимое кино HD
-http://178.217.72.66:8080/Lyubimoe_Kino/index.m3u8
-#EXTINF:-1 group-title="Кино", Мир сериала HD
-http://178.217.72.66:8080/Mir_Seriala/index.m3u8
-#EXTINF:-1 group-title="Кино", Мужское кино HD
-http://77.235.1.19:8000/play/a08d/index.m3u8
-#EXTINF:-1 group-title="Кино", Русский бестселлер
-http://195.245.99.242/Bestseler/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Русский детектив 
-http://195.245.99.242/Detectiv/playlist.m3u8
-#EXTINF:-1 group-title="Кино", Русский иллюзион HD
-http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:-1 group-title="Кино", Феникс Плюс Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="Кино", A1 HD
-http://178.217.72.66:8080/A1/video.m3u8
-#EXTINF:-1 group-title="Кино", A2 HD
-http://178.217.72.66:8080/A2/index.m3u8
-#EXTINF:-1 group-title="Кино", Viasat Kino Comedy
-http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 
-http://31.173.165.29:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Action
-http://178.217.72.66:8080/TV_1000_Action/index.m3u8
-#EXTINF:-1 group-title="Кино", Viju TV1000 Русское кино
-http://195.245.99.242/1000_rus/playlist.m3u8
